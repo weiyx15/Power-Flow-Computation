@@ -1,0 +1,17 @@
+N M L K K1
+G1
+B1
+C1
+--C
+C
+C
+C
+C--
+C0
+S1
+E1
+P
+Q
+V
+E
+F
